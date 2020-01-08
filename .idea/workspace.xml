@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f67ef077-49c1-4b49-83ff-22791ed0561e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V1YaIIw7ZmGCMwbKhm3e1FXwWL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SFTP-demo" />
+      <recent name="D:\SFTP-demo\tmp" />
+      <recent name="D:\SFTP-demo\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SFTP-demo\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NewJFrame">
+    <configuration name="NewJFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NewJFrame" />
+      <module name="SFTP-demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecieveFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecieveFile" />
+      <module name="SFTP-demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendFile.isDirHasNoFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SFTP-demo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SendFile" />
+      <option name="METHOD_NAME" value="isDirHasNoFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SendFile.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SFTP-demo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SendFile" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SFTP-demo-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/SFTP-demo-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NewJFrame" />
+        <item itemvalue="JAR Application.SFTP-demo-1.0-SNAPSHOT.jar" />
+        <item itemvalue="JUnit.SendFile.isDirHasNoFile" />
+        <item itemvalue="Application.RecieveFile" />
+        <item itemvalue="JUnit.SendFile.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f67ef077-49c1-4b49-83ff-22791ed0561e" name="Default Changelist" comment="" />
+      <created>1576422129753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576422129753</updated>
+      <workItem from="1576422133619" duration="15539000" />
+      <workItem from="1576489381415" duration="37088000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="412" y="95" key="#Project_Structure" timestamp="1576422747316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="412" y="95" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1576422747316" />
+    <state x="567" y="243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576467005685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="567" y="243" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576467005685" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1576650311242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1576650311242" />
+    <state width="497" height="466" key="DebuggerActiveHint" timestamp="1576655081844">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="497" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1576655081844" />
+    <state x="600" y="191" key="FileChooserDialogImpl" timestamp="1576461729040">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="600" y="191" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576461729040" />
+    <state width="1877" height="438" key="GridCell.Tab.0.bottom" timestamp="1576663825274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="438" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576663825274" />
+    <state width="1877" height="438" key="GridCell.Tab.0.center" timestamp="1576663825274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="438" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576663825274" />
+    <state width="1877" height="438" key="GridCell.Tab.0.left" timestamp="1576663825274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="438" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576663825274" />
+    <state width="1877" height="438" key="GridCell.Tab.0.right" timestamp="1576663825274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="438" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576663825274" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1576663529825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576663529825" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1576663529825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576663529825" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1576663529825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576663529825" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1576663529825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576663529825" />
+    <state x="300" y="11" key="SettingsEditor" timestamp="1576489361382">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="300" y="11" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576489361382" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1576489431027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576489431027" />
+    <state x="605" y="118" width="710" height="804" key="find.popup" timestamp="1576655857042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="605" y="118" width="710" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576655857042" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1576651044051">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1576651044051" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SendFile.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/NewJFrame.java</url>
+          <line>209</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
